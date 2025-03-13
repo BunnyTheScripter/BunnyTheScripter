@@ -12,7 +12,7 @@ Sou um programador apaixonado por Lua, Apesar de programar exclusivamente em Lua
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua" />
+    <img src="https://skillicons.dev/icons?i=lua" style="width: 50px; height: 50px;" />
   </a>
 </p>
 
