@@ -1,14 +1,14 @@
-## 💜 Olá, meu nome é bunny!
+## 💜 Hello, my name is bunny!
 
-Sou um programador apaixonado por Lua, Apesar de programar exclusivamente em Lua, consigo desenvolver praticamente qualquer coisa! Meu foco é o backend, mas também me viro muito bem no front end quando a situação pede.
+I am a programmer passionate about Lua. Although I program exclusively in Lua, I can develop almost anything! My focus is on the backend, but I also do very well on the front end when the situation calls for it.
 
-🔭 Atualmente, estou trabalhando em um projeto que utiliza Lua para criar soluções robustas e eficientes, integrando funcionalidades tanto para o lado do servidor quanto para interfaces web interativas.
+🔭 Currently, I am working on a project that uses Lua to create robust and efficient solutions, integrating functionalities both for the server side and for interactive web interfaces.
 
-💬 Se você tiver dúvidas sobre programação em Lua, quiser trocar ideias sobre desenvolvimento ou conversar sobre projetos, sinta-se à vontade para entrar em contato!
+💬 If you have any questions about Lua programming, want to exchange ideas about development, or chat about projects, feel free to get in touch!
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,9 +18,9 @@ Sou um programador apaixonado por Lua, Apesar de programar exclusivamente em Lua
 
 ---
 
+> [!WARNING]\
+> Most of my projects are private.
+
 ## ⭐ GitHub Code Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyTheScripter)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
