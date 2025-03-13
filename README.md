@@ -22,5 +22,12 @@ Sou um programador apaixonado por Lua, Apesar de programar exclusivamente em Lua
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BunnyTheScripter&show_icons=true)
 
-https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  </a>
+</p>
+
+
 
