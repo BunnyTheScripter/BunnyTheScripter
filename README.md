@@ -10,7 +10,7 @@ Sou um programador apaixonado por Lua, Apesar de programar exclusivamente em Lua
 
 ## 🚀 Minhas Skills
 
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+<svg width="256" height="256" fill="none" viewBox="0 0 256 256">
   <rect width="256" height="256" fill="#242938" rx="60"/>
   <g clip-path="url(#clip0_101_404)">
     <path fill="navy" d="M204.453 128.02C204.453 85.8242 170.195 51.5703 128 51.5703C85.8047 51.5703 51.5469 85.8242 51.5469 128.02C51.5469 170.219 85.8047 204.473 128 204.473C170.195 204.473 204.453 170.219 204.453 128.02Z"/>
@@ -23,7 +23,7 @@ Sou um programador apaixonado por Lua, Apesar de programar exclusivamente em Lua
   </g>
   <defs>
     <clipPath id="clip0_101_404">
-      <rect width="200" height="200" fill="#fff" transform="translate(28 28)" />
+      <rect width="200" height="200" fill="#fff" transform="translate(28 28)"/>
     </clipPath>
   </defs>
 </svg>
