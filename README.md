@@ -20,10 +20,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BunnyTheScripter/BunnyTheScripter/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BunnyTheScripter/BunnyTheScripter/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BunnyTheScripter/BunnyTheScripter/output/pacman-contribution-graph.svg">
-</picture>
+<!-- For canvas -->
+<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=BunnyTheScripter&platform=github" 
+    width="800" height="600" frameborder="0"></iframe>
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?username=BunnyTheScripter" />
 
 ###
