@@ -1,27 +1,30 @@
-## 💜 Hello, my name is bunny!
+<h1 align="center">💜 Hello, my name is bunny!</h1>
 
-> [!NOTE]\
->I am a programmer passionate about Lua. Although I program exclusively in Lua, I can develop almost anything! My focus is on the backend, but I also do very well on the front end when the situation calls for it.
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
+</div>
 
----
+###
 
-## 🚀 My Skills
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua" style="width: 80px; height: 80px;" />
-  </a>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BunnyTheScripter&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=BunnyTheScripter&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-> [!WARNING]\
-> Most of my projects are private.
+###
 
-## ⭐ GitHub Code Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BunnyTheScripter/BunnyTheScripter/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BunnyTheScripter/BunnyTheScripter/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BunnyTheScripter/BunnyTheScripter/output/pacman-contribution-graph.svg">
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyTheScripter)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![](https://komarev.com/ghpvc/?username=BunnyTheScripter&color=green)
+###
